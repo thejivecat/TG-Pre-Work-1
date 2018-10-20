@@ -1,0 +1,4 @@
+{
+"presets": ["env"]
+}
+I learned to specify the source JS version and what we're transpiling to 
